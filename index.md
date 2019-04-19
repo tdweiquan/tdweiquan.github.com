@@ -6,7 +6,7 @@ tagline: 面向所有人
 {% include JB/setup %}
 
 ## Info
-
+   团贷网，血汗钱
 ## Posts
 
 <ul class="posts">
