@@ -8,13 +8,11 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Gre2
+title : tdw
 tagline: Site Tagline
 author :
-  name : gre2
-  email : 15101179616@163.com
-  github : gre2
-  # twitter : hqlgree2
+  name : tdw
+  # twitter : 
   # feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
